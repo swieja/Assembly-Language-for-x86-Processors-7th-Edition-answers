@@ -1,5 +1,3 @@
-; AddTwoSum_64.asm - Chapter 3 example.
-
 ExitProcess proto
 
 .data
