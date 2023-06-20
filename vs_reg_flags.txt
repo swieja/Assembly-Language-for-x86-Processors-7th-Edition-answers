@@ -1,9 +1,9 @@
 Visual Studio Register floating_result
-| Overflow  | OV |
-| Direction | UP |
-| Interrupt | EI |
-| Sign      | PL |
-| Zero      | ZR |
-| Auxiliary | AC |
-| Parity    | PE |
-| Carry     | CY |
+| Overflow  | OV | OF |
+| Direction | UP | DF |
+| Interrupt | EI | IF |
+| Sign      | PL | SF |
+| Zero      | ZR | ZF |
+| Auxiliary | AC | AF |
+| Parity    | PE | PF |
+| Carry     | CY | CF |
